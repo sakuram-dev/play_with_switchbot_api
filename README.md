@@ -35,7 +35,7 @@ python3 get_device_id.py
 ```
 
 ### sample response
-```json
+```
 {'body': {'deviceList': [{'deviceId': 'XXXXXXXXXXXXXXXX',
                           'deviceName': 'XXXXXXXXXXXXXXXX',
                           'deviceType': 'XXXXXXXXXXXXXXXX',
@@ -73,4 +73,4 @@ I get below response.
 
 ## And more
 - get temperature and monitor with zabbix
-![Alt text](temperature.png)
+![Alt text](Pictures/temperature.png)
